@@ -1,0 +1,39 @@
+body {
+    font-family: 'Odibee Sans', cursive;
+    font-size: 25px;
+    background-color: lightskyblue;
+}
+
+b {
+    color: purple;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+img {
+    width: 400px;
+    height: 450px;
+}
+
+#Case_Study_img {
+    width: 250px;
+    height: 250px;
+}
+
+.header_div {
+    background: lightcoral;
+    color: purple;
+}
+
+.header_div img {
+    width: 150px;
+}
+
+.div_result {
+    padding: 10px;
+     width:80%;
+     background: steelblue;
+     border-radius: 15px;
+}
